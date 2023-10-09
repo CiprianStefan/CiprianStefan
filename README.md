@@ -32,32 +32,32 @@ Here are some ideas to get you started:
 
 ## 🌱 I’m currently learning: ##
 
-![Springboot](https://img.shields.io/badge/Springboot-white?style=plastic&logo=springboot)
-![Java](https://img.shields.io/badge/Java-white?style=plastic&logo=java)
-![Typescript](https://img.shields.io/badge/Typescript-white?style=plastic&logo=typescript)
-![React](https://img.shields.io/badge/React-white?style=plastic&logo=react)
-![Nodejs](https://img.shields.io/badge/Nodejs-white?style=plastic&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-white?style=plastic&logo=mongodb)
+![Springboot](https://img.shields.io/badge/Springboot-white?style=for-the-badge&logo=springboot)
+![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java)
+![Typescript](https://img.shields.io/badge/Typescript-white?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react)
+![Nodejs](https://img.shields.io/badge/Nodejs-white?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb)
 
 ## 👨‍💻 Technologies I use: ##
 
-![Unity](https://img.shields.io/badge/Unity-white?style=plastic&logo=unity)
-![C#](https://img.shields.io/badge/C%23-white?style=plastic&logo=c-sharp)
-![BashScripting](https://img.shields.io/badge/BashScripting-white?style=plastic&logo=gnu-bash)
-![Awk](https://img.shields.io/badge/Awk-white?style=plastic&logo=gnu-awk)
-![JasperReports](https://img.shields.io/badge/JasperReports-white?style=plastic&logo=jasperreports)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=plastic&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-white?style=plastic&logo=mysql)
+![Unity](https://img.shields.io/badge/Unity-white?style=for-the-badge&logo=unity)
+![C#](https://img.shields.io/badge/C%23-white?style=for-the-badge&logo=c-sharp)
+![BashScripting](https://img.shields.io/badge/BashScripting-white?style=for-the-badge&logo=gnu-bash)
+![Awk](https://img.shields.io/badge/Awk-white?style=for-the-badge&logo=gnu-awk)
+![JasperReports](https://img.shields.io/badge/JasperReports-white?style=for-the-badge&logo=jasperreports)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql)
 
 ## 🛠 Currently working on: ##
 
-![Chronicles of the last heroes](https://img.shields.io/badge/Chronicles%20of%20the%20last%20heroes-white?style=plastic&logo=unity) WIP
+![Chronicles of the last heroes](https://img.shields.io/badge/Chronicles%20of%20the%20last%20heroes-white?style=for-the-badge&logo=unity) WIP
 
 ## 📫 How to reach me: ##
 
 [![Linkedin][1.1]][1]
 
-[1.1]: https://img.shields.io/badge/LinkedIn-white?style=plastic&logo=linkedin&logoColor=blue
+[1.1]: https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=blue
 
 [1]: https://www.linkedin.com/in/stefan-ciprian-barbu-822454257/
 
