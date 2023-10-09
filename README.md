@@ -27,8 +27,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on game development projects
 - 💬 Ask me about anything
 
-
+<!--
 ![CiprianStefan's github stats](https://github-readme-stats.vercel.app/api?username=CiprianStefan&show_icons=true&theme=radical)
+--> 
 
 ## 🌱 I’m currently learning: ##
 
