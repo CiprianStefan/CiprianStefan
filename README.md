@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ## 🌱 I’m currently learning: ##
 
-![Springboot](https://img.shields.io/badge/Springboot-323330?style=for-the-badge&logo=springboot)
+![Spring Boot](https://img.shields.io/badge/Springboot-323330?style=for-the-badge&logo=springboot)
 ![Java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java)
 ![Typescript](https://img.shields.io/badge/Typescript-323330?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react)
