@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-## 👨‍🎓 Computer Science Student at University of Bucharest on Software Engineering Phd ##
+## 👨‍🎓 Computer Science Student at University of Bucharest on Software Engineering Master ##
 
 ## 🎮 Game Development Enthusiast ##
 
