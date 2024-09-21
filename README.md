@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 ## 🛠 Currently working on: ##
 
-![Chronicles of the last heroes](https://img.shields.io/badge/Chronicles%20of%20the%20last%20heroes-323330?style=for-the-badge&logo=unity) WIP
+![Just a Roguelike](https://img.shields.io/badge/Chronicles%20of%20the%20last%20heroes-323330?style=for-the-badge&logo=unity) WIP
 
 ## 📫 How to reach me: ##
 
