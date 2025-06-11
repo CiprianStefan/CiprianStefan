@@ -20,25 +20,25 @@ Here are some ideas to get you started:
 
 ## 🎮 Game Development Enthusiast ##
 
-## 🐱‍💻About me: ##
+<!--## 🐱‍💻About me: ##
 
 - 🔭 I’m currently working on a game called Chronicles of the last heroes
 - 🌱 I’m currently learning Web Technologies
 - 👯 I’m looking to collaborate on game development projects
-- 💬 Ask me about anything
+- 💬 Ask me about anything-->
 
 <!--
 ![CiprianStefan's github stats](https://github-readme-stats.vercel.app/api?username=CiprianStefan&show_icons=true&theme=radical)
 --> 
 
-## 🌱 I’m currently learning: ##
+<!--## 🌱 I’m currently learning: ##
 
 ![Spring Boot](https://img.shields.io/badge/Springboot-323330?style=for-the-badge&logo=springboot)
 ![Java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java)
 ![Typescript](https://img.shields.io/badge/Typescript-323330?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react)
 ![Nodejs](https://img.shields.io/badge/Nodejs-323330?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-323330?style=for-the-badge&logo=mongodb)
+![MongoDB](https://img.shields.io/badge/MongoDB-323330?style=for-the-badge&logo=mongodb)-->
 
 ## 👨‍💻 Technologies I use: ##
 
@@ -50,9 +50,9 @@ Here are some ideas to get you started:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-323330?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql)
 
-## 🛠 Currently working on: ##
+<!--## 🛠 Currently working on: ##
 
-![Just a Roguelike](https://img.shields.io/badge/Just%20a%20Roguelike-323330?style=for-the-badge&logo=unity) WIP
+![Just a Roguelike](https://img.shields.io/badge/Just%20a%20Roguelike-323330?style=for-the-badge&logo=unity) WIP-->
 
 ## 📫 How to reach me: ##
 
